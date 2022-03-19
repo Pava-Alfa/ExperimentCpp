@@ -2,6 +2,7 @@
 #include <string>
 #include "Account.h"
 
+//Relesed on github
 int main()
 {
 	//std::cout << "hello world" << std::endl;
